@@ -23,7 +23,7 @@ Web Scraper is a Django project designed to scrape links from any given URL. It 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/web-scraper.git
+    git clone https://github.com/Shrey0226/website-scrapper.git
     ```
 
 2. Navigate to the project directory:
